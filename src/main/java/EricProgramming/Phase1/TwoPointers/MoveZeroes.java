@@ -23,7 +23,7 @@ public class MoveZeroes {
             }
         }
 
-        System.out.println(arr);
+        System.out.print(arr);
     }
 
 
